@@ -1,6 +1,6 @@
 # ☀️ Simple Banking Application
 
-The **Simple Banking Application** is a web application.
+The **Simple Banking Application** is a modern web-based banking solution designed to simulate core banking functionalities. It is built with React and enhanced with robust state management, routing, and reusable components.
 
 ## 🛠️ Technologies Used
 
@@ -15,6 +15,11 @@ The **Simple Banking Application** is a web application.
 
 ## 🎯 Features
 
+- Account Management: Simulate user authentication and account-related operations.
+- State Management: Efficient data handling and state updates using **Redux**.
+- Routing: Seamless page navigation powered by **React Router**.
+- Context API: Shared functionality for features like timers and session management.
+- React Hooks: Leverages hooks like **useState**, **useEffect**, and **useContext** for functional, clean, and reusable components.
 - User-friendly interface for managing banking operations.
 - Backend APIs to handle transactions securely.
 - Hardcoded user data imported from a file (`user.js`).
